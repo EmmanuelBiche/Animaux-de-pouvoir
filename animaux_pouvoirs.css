@@ -1,0 +1,36 @@
+*
+{
+width: 1800px;
+color: white
+}
+
+img
+{
+	width: 500px;
+	height: 300px;
+}
+
+body
+{
+	background-image: url(sea.jpg);
+	
+	font-family: Vladimir Script;
+	font-size: 80px;
+}
+
+h1
+{
+	text-align: center;
+	width: 1800px;
+	margin-bottom: 50px;
+	margin-top: 0
+}
+
+video
+{
+	height:800px;
+	width: 1200px;
+	align-items: center;
+}
+
+rgb(42,89,150);
